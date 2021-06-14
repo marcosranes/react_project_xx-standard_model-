@@ -1,12 +1,31 @@
 # This project brings on board a standard configuration to get started a new project
 ## Summary
+Starting from scratch: eslint, prettier, editorconfig and prop-types.
+
+## Resources
 * EditorConfig for VS Code
 * ESLint 2.1.20
 * Prettier - Code formatter
+* Prop-types (command line into terminal)
+```js
+npm i prop-types
+```
+Click to see an `in-construction` [application](https://fervent-mclean-7191ca.netlify.app) deployed and running at Netlify.
+# Note:
+# `I'll come back here for more updatings as soon as I can... cheers!`
 
-[Click here](https://fervent-mclean-7191ca.netlify.app) to see a wrapped application deployed and running at Netlify.
-
-
+```
+...
+```
+```
+...
+```
+```
+...
+```
+```
+...
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
